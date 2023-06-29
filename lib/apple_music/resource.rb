@@ -14,6 +14,7 @@ module AppleMusic
       'genres' => 'AppleMusic::Genre',
       'music-videos' => 'AppleMusic::MusicVideo',
       'playlists' => 'AppleMusic::Playlist',
+      'social-profiles' => 'AppleMusic::SocialProfile',
       'songs' => 'AppleMusic::Song',
       'stations' => 'AppleMusic::Station',
       'storefronts' => 'AppleMusic::Storefront'
