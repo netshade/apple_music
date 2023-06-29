@@ -26,6 +26,7 @@ module AppleMusic # :nodoc:
   autoload :Response,       'apple_music/response'
   autoload :Search,         'apple_music/search'
   autoload :SearchResult,   'apple_music/search_result'
+  autoload :SocialProfile,  'apple_music/social_profile'
   autoload :Song,           'apple_music/song'
   autoload :Station,        'apple_music/station'
   autoload :Storefront,     'apple_music/storefront'
